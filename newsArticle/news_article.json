@@ -1,0 +1,26 @@
+{
+    "articles": [
+      {
+        "headline": "Trump unable to get $464m bond in New York fraud case, his lawyers say",
+        "description": "Donald Trump cannot find a private company to guarantee the $464m (£365m) he has been ordered to pay in a New York civil fraud case.",
+        "paragraphs": [
+          "The former president must either pay the full amount in cash or secure a bond in order to continue his appeal.",
+          "Mr Trump's lawyers said on Monday that securing a bond of that size was a 'practical impossibility'.",
+          "For a fee, a bonding company would guarantee the full amount to the New York court."
+        ],
+        "author": "Madeline Halpert"
+      },
+      {
+        "headline": "Mood among Tory MPs darkens as Rishi Sunak faces leadership questions",
+        "description": "The mood in the Conservative Party is dark, and it has noticeably darkened over the past few days.",
+        "paragraphs": [
+          "Why? Last week was not a good week for Rishi Sunak, to say the least. First Lee Anderson, who had been suspended from the Conservative ranks over comments he made about Sadiq Khan, joined Reform, the insurgent right-wing party.",
+          "Then came the reporting of alleged comments made by Frank Hester, a mega-donor to the Conservative Party.",
+          "Generally Conservative MPs seem content with Mr Sunak's decision to keep hold of the £10m he gave the party last year, but there is definite frustration at the prime minister's handling of the revelations, especially the initial decision not to condemn the reported comments as racist.",
+          "But there are more fundamental reasons that the vibe appears to have shifted among Conservatives. One is the state of the opinion polls. Conservative MPs can see the same polls as the public. They suggest that their party is headed not just for a defeat at the general election but for a very, very bad defeat."
+        ],
+        "author": "Henry Zeffman"
+      }
+    ]
+  }
+  
